@@ -21,3 +21,26 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+scarf-y:
+  name: Daffa Naufal Rahadian
+  title: Overseer of Capybaras
+  url: https://github.com/scarf-y
+  image_url: https://github.com/scarf-y.png
+
+viscasa:
+  name: Alwie Attar Elfandra
+  title: Play Capybara Go! On PlayStore
+  url: https://github.com/viscasa
+  image_url: https://github.com/viscasa.png
+
+EdPootis:
+  name: Edmond Christian
+  title: Professional Gacha Gamer
+  url: https://github.com/EdPootis
+  image_url: https://github.com/EdPootis.png
+cbkadal:
+  name: Cicak BinKadal
+  title: Sdn, Bhd.
+  url: https://github.com/cbkadal
+  image_url: https://github.com/cbkadal.png
